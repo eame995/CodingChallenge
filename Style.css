@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-image: url(immagini/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', 'ui-sans-serif', 'system-ui','sans-serif';
+   
+    
+}
+.container {
+    width: 700px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 75px;
+    border-radius: 10px;
+    
+   
+    
+}
+.logo {
+    width: 170px;
+    display: block;
+    margin: auto;
+
+}
+.title {
+    color: rgb(0, 221, 0);
+    text-align: center;
+    margin: auto;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+.bar {
+    background-color: rgb(0, 221, 0);
+    width: 700px;
+    height: 30px;
+    margin-bottom: 20px;
+    
+}
+button {
+    font-size: xx-small;
+    height: 15px;
+    margin-top: 7.5px;
+    
+    
+    
+}
+.btn{
+    margin: auto;
+    width: fit-content;
+    
+    
+    
+
+}
+main{
+    color: white;
+}
+label{
+    font-size: medium ;
+    font-weight: bolder;
+}
+.location, .battery{
+    font-size: x-small;
+    
+}
+.percentageGino {
+    height: 20px;
+    width: 250px;
+    background-color: #f5b453;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.percentageMike {
+    height: 20px;
+    width: 400px;
+    background-color: #1ec31e;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.percentageFede {
+    height: 20px;
+    width: 100px;
+    background-color: #be4141;
+    border-radius: 5px;
+}
